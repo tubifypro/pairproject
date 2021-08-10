@@ -1,4 +1,4 @@
-
+//fawez css
 body{
 	background-image: url("cc.jpg");
 }
@@ -67,3 +67,193 @@ p{
 
 }
 
+/* aziz css*/
+body{
+	background:linear-gradient(to bottom, #434343 0%, #000000 100%);
+;
+}
+.divleft{
+	float:left ;
+	width: 19%;
+	height:400px ;
+    background: linear-gradient(to top, #2a0845 -22%, #6441A5 47%);
+ ;
+}
+.divright{
+float:right ;width: 18%;height:1000px;
+    background: linear-gradient(to top, #2a0845 -22%, #6441A5 47%);
+
+}
+.divmid{
+	margin: 0 Auto;
+	width: 60%;
+	height:1000px;
+	background: linear-gradient(to left, #000000 9%, #9966ff 120%);
+	background: url('https://lh3.googleusercontent.com/proxy/UTy2oaHFtERsELl-Osd8wVuHWwlq9YpRFYWWV4ePsVhQqvWxfHZ1vRyhOTGcWo9ZhBOcTKLk5q0HC5uueqh5KgvrN0nCZWAdRV9WzH7bpPlld9n0eDcWxns69dL9BtjpiR2PY2ExVn_2WRk');
+	background-size: 650px;
+}
+.subject1{
+	
+	border-radius: 10px;
+	background: url('https://miro.medium.com/max/4800/1*XXI-kg18liPn4XcfZmoqQQ.jpeg');
+	background-position: center;
+	background-size: 200px;
+	height: 80px;
+	width: 200px;
+	margin-left: 35px;
+	color: white;
+	font-size: 30px;
+
+	;
+	
+
+
+}
+
+.title{
+	background-image: url("https://www.eleapsoftware.com/wp-content/uploads/2018/02/education-and-business-background-1.jpg");
+	height: 300px;
+	text-align: center;
+	padding: 60px;
+	color :white;
+	font-size: 60px;
+}
+.jsbtn1{
+	
+	width: 90px;
+  height: 100px;
+  margin: 10px;
+  transition: width 3s;
+  background: url('https://www.educative.io/api/page/5429180235776000/image/download/5343340281200640');
+  background-position : left;
+  background-size: 110x ;
+  color: white;
+  font-size: 20px ;
+  font-weight:bold ;
+  margin left: 10px;
+  margin-top: 10px;
+
+
+
+}
+.jsbtn1:hover{
+	width: 249px;
+}
+.jsbtn2{
+	margin: 10px;
+	width: 90px;
+  height: 100px;
+  transition: width 3s;
+  background: url('https://www.educative.io/api/page/5429180235776000/image/download/5343340281200640');
+  background-position : left;
+  background-size: 110x ;
+  color: white;
+  font-size: 20px ;
+   font-weight:bold ;
+
+}
+.jsbtn2:hover{
+	width: 249px;
+}
+.jsbtn3{
+	background: url(https://c1.wallpaperflare.com/preview/711/292/6/letters-abc-alphabet-journal-font.jpg);
+	width: 90px;
+  height: 100px;
+	margin: 10px;
+  transition: width 3s;
+   background: url('https://www.educative.io/api/page/5429180235776000/image/download/5343340281200640');
+  background-position : left;
+  background-size: 110x ;
+  color: white;
+  font-size: 20px ;
+  font-weight:bold ;
+
+}
+.jsbtn3:hover{
+	width: 249px;
+}
+.jsbtn4{
+	margin: 10px;
+	width: 90px;
+  height: 100px;
+    background: url('https://www.educative.io/api/page/5429180235776000/image/download/5343340281200640');
+  background-position : left;
+  background-size: 110x ;
+  color: white;
+  font-size: 20px ;
+  transition: width 3s;
+  font-weight:bold ;
+
+}
+.jsbtn4:hover{
+	width: 260px;
+}
+.jsbtn5{
+	margin: 10px;
+	width: 90px;
+  height: 100px;
+   background: url('https://www.educative.io/api/page/5429180235776000/image/download/5343340281200640');
+  background-position : left;
+  background-size: 110x ;
+  color: white;
+  font-size: 20px ;
+  transition: width 3s;
+   font-weight:bold ;
+
+}
+.jsbtn5:hover{
+	width: 249px;
+}
+.jsbtn6{
+	margin: 10px;
+	width: 90px;
+  height: 100px;
+    background: url('https://www.educative.io/api/page/5429180235776000/image/download/5343340281200640');
+  background-position : left;
+  background-size: 110x ;
+  color: white;
+  font-size: 20px ;
+  transition: width 3s;
+   font-weight:bold ;
+
+}
+.jsbtn6:hover{
+	width: 249px;
+}
+
+.bouncy{
+animation:bouncy 5s infinite linear;
+position:relative;
+
+
+}
+@keyframes bouncy {
+0%{top:0em}
+40%{top:0em}
+43%{top:-0.9em}
+46%{top:0em}
+48%{top:-0.4em}
+50%{top:0em}
+100%{top:0em;}
+}
+.cssbtn1{
+ 	margin: 10px;
+	width: 120px;
+  height: 100px;
+    background: url('https://cherrygeek.fr/add-on/images/html-css.jpg');
+  background-position : left;
+  background-size: 250px ;
+  color: white;
+  font-size: 25px ;
+  transition: width 3s;
+  font-weight:bold ;
+
+}
+.cssbtn1:hover{
+	width: 249px;
+}
+.video{
+	width:100% ;
+	height:50%  ;
+
+}
