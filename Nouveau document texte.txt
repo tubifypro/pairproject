@@ -1,0 +1,67 @@
+body{
+	background-image: url("cc.jpg");
+}
+button {
+	background-color: DarkGoldenRod; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  margin-left: 0px;
+   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+   margin-left: 50px
+}
+
+
+.ppp{
+ width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+
+
+}
+
+div{
+	 border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+ margin-left : 350px;
+}
+input{
+	  width: 20%;
+      background-color: DarkGrey;
+       color: white;
+       height: 30px
+        width: 100%;
+       padding: 12px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      resize: vertical;
+      margin-left: 100px
+}
+
+label{
+
+   margin-left : 350px;
+}
+
+p{
+	font-size : 50px;
+	color: DarkSeaGreen;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: monospace;
+  letter-spacing: 7px;
+  cursor: pointer
+
+
+}

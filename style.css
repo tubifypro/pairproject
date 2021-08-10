@@ -1,86 +1,21 @@
-//fawez css
-body{
-	background-image: url("cc.jpg");
-}
-button {
-	background-color: DarkGoldenRod; 
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
-  margin-left: 0px;
-   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-   margin-left: 50px
-}
 
-
-.ppp{
- width: 100%;
-  padding: 12px 20px;
-  margin: 8px 0;
-  display: inline-block;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  box-sizing: border-box;
-
-
-}
-
-div{
-	 border-radius: 5px;
-  background-color: #f2f2f2;
-  padding: 20px;
- margin-left : 350px;
-}
-input{
-	  width: 20%;
-      background-color: DarkGrey;
-       color: white;
-       height: 30px
-        width: 100%;
-       padding: 12px;
-      border: 1px solid #ccc;
-      border-radius: 4px;
-      resize: vertical;
-      margin-left: 100px
-}
-
-label{
-
-   margin-left : 350px;
-}
-
-p{
-	font-size : 50px;
-	color: DarkSeaGreen;
-  font-size: 50px;
-  font-weight: bold;
-  font-family: monospace;
-  letter-spacing: 7px;
-  cursor: pointer
-
-
-}
 
 /* aziz css*/
 body{
-	background:linear-gradient(to bottom, #434343 0%, #000000 100%);
+	
+    background: linear-gradient(to bottom, #F5F5F5 0%, #ffffff 100%);
+
 ;
 }
 .divleft{
 	float:left ;
 	width: 19%;
-	height:400px ;
+	height:600px ;
     background: linear-gradient(to top, #2a0845 -22%, #6441A5 47%);
  ;
 }
 .divright{
-float:right ;width: 18%;height:1000px;
+float:right ;width: 19%;height:1000px;
     background: linear-gradient(to top, #2a0845 -22%, #6441A5 47%);
 
 }
@@ -88,9 +23,9 @@ float:right ;width: 18%;height:1000px;
 	margin: 0 Auto;
 	width: 60%;
 	height:1000px;
-	background: linear-gradient(to left, #000000 9%, #9966ff 120%);
-	background: url('https://lh3.googleusercontent.com/proxy/UTy2oaHFtERsELl-Osd8wVuHWwlq9YpRFYWWV4ePsVhQqvWxfHZ1vRyhOTGcWo9ZhBOcTKLk5q0HC5uueqh5KgvrN0nCZWAdRV9WzH7bpPlld9n0eDcWxns69dL9BtjpiR2PY2ExVn_2WRk');
-	background-size: 650px;
+	
+	background: url('image1.png');
+	background-size: 800px;
 }
 .subject1{
 	
@@ -116,11 +51,11 @@ float:right ;width: 18%;height:1000px;
 	text-align: center;
 	padding: 60px;
 	color :white;
-	font-size: 60px;
+	font-size: 50px;
 }
 .jsbtn1{
 	
-	width: 90px;
+	width: 97px;
   height: 100px;
   margin: 10px;
   transition: width 3s;
@@ -141,7 +76,7 @@ float:right ;width: 18%;height:1000px;
 }
 .jsbtn2{
 	margin: 10px;
-	width: 90px;
+	width: 97px;
   height: 100px;
   transition: width 3s;
   background: url('https://www.educative.io/api/page/5429180235776000/image/download/5343340281200640');
@@ -157,7 +92,7 @@ float:right ;width: 18%;height:1000px;
 }
 .jsbtn3{
 	background: url(https://c1.wallpaperflare.com/preview/711/292/6/letters-abc-alphabet-journal-font.jpg);
-	width: 90px;
+	width: 97px;
   height: 100px;
 	margin: 10px;
   transition: width 3s;
@@ -174,7 +109,7 @@ float:right ;width: 18%;height:1000px;
 }
 .jsbtn4{
 	margin: 10px;
-	width: 90px;
+	width: 97px;;
   height: 100px;
     background: url('https://www.educative.io/api/page/5429180235776000/image/download/5343340281200640');
   background-position : left;
@@ -190,7 +125,7 @@ float:right ;width: 18%;height:1000px;
 }
 .jsbtn5{
 	margin: 10px;
-	width: 90px;
+	width: 97px;
   height: 100px;
    background: url('https://www.educative.io/api/page/5429180235776000/image/download/5343340281200640');
   background-position : left;
@@ -206,7 +141,7 @@ float:right ;width: 18%;height:1000px;
 }
 .jsbtn6{
 	margin: 10px;
-	width: 90px;
+	width: 97px;
   height: 100px;
     background: url('https://www.educative.io/api/page/5429180235776000/image/download/5343340281200640');
   background-position : left;
@@ -250,10 +185,14 @@ position:relative;
 
 }
 .cssbtn1:hover{
-	width: 249px;
+	width: 245px;
 }
 .video{
 	width:100% ;
 	height:50%  ;
 
+}
+a{
+  text-decoration: none;
+  color:white;
 }
